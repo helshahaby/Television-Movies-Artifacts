@@ -11,9 +11,9 @@ In order to extract text from films
 
 New Dataset (FiViD) is created and uploaded in metafire and tc11 site (not published yet)
 Text Training Dataset
-https://www.mediafire.com/file/r23lx2vmxb3ge14/Text_Dataset.7z/file
+https://www.mediafire.com/file/6n1usuk51f8ea23/Text_Training_Dataset.7z/file
 Non Text Training Dataset
-https://www.mediafire.com/file/nxtp64fnp515a1l/Non_Text_Dataset.7z/file
+https://www.mediafire.com/file/s5bfzs1iwfymi8s/Non_Text_Training_Dataset.7z/file
 Text Testing Dataset
 https://www.mediafire.com/file/ljb0pkmlif7im54/Text_Testing_Dataset.7z/file
 Non Text Testing Dataset
